@@ -36,7 +36,7 @@ The finished site lands in the `dist` folder, ready to deploy on Netlify, Vercel
 ## A couple of things to set before deploying
 
 - In `src/App.jsx`, swap the placeholder `#` links on the project cards for your live demo and repository URLs
-- Drop your CV into `public/Enoch_Aderinsola_CV.pdf` so the download button works
+- Drop your CV into `public/` so the download button works
 
 ## About me
 
